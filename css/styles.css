@@ -1,0 +1,22 @@
+*
+{
+    background-color: rgb(123, 195, 234);
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+.home li ,h1
+{
+    text-align: center;
+}
+
+.home li
+{
+    list-style-type: none;
+}
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
